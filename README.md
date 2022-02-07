@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pliniocode
+- 👋 Hi, I’m @phr.plinio
 - 👀 I’m interested in Web Develop
 - 🌱 I’m currently learning CS50
 
