@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phr.plinio
 - 👀 I’m interested in Web Develop
-- 🌱 I’m currently learning CS50
+- 🌱 I’m currently learning ADS
 
 <!---
 pliniocode/pliniocode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
