@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @phr.plinio
-- 👀 I’m interested in Web Develop
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning ADS
 
 <!---
